@@ -3,7 +3,10 @@ new lines
 new lines lines
 sjdfh
 exit kr de qa
+<<<<<<< HEAD
 
 sdfjlaks 
 sdkfljasl
 sdkfljasl
+=======
+>>>>>>> feature
